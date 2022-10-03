@@ -169,8 +169,8 @@ def banner():
  ########       ###       ### 
 \033[1;37m==============================================
  Source By : SAJU
-\x1b[1;97m Facebook : ERROR
-\x1b[1;97m Group : ERROR
+\x1b[1;97m Facebook : MD Almotasim Saju 
+\x1b[1;97m Group : 🥵🥵😍
 \033[1;37m==============================================
 \033[1;37m==============================================
 \t\x1b[1;97m[\x1b[1;92m C L O N I N G T O O L \x1b[1;97m]
@@ -224,7 +224,7 @@ def bot():
 def menu():
 	os.system('clear')
 	banner()
-	os.system("xdg-open https://www.facebook.com/owner.termux")        
+	os.system("xdg-open https://https://www.facebook.com/Md.Almutasimsaju.Simple.man143")        
 	print(f'\033[1;37m()==============================================()    ')
 	print('\t\x1b[1;97m[\x1b[1;92m M A I N - M E N U  \x1b[1;97m]')
 	print(f'\033[1;37m()==============================================()    ')
