@@ -168,9 +168,10 @@ def banner():
 #+#    #+#      #+#       #+# 
  ########       ###       ### 
 \033[1;37m==============================================
- Source By : SAJU
+ Source By : MD Almotasim SAJU
 \x1b[1;97m Facebook : MD Almotasim Saju 
-\x1b[1;97m Group : Komu na 
+\x1b[1;97m Group : Erro 
+\x1b[1;97m Whatapp : 018141****
 \033[1;37m==============================================
 \033[1;37m==============================================
 \t\x1b[1;97m[\x1b[1;92m C L O N I N G T O O L \x1b[1;97m]
